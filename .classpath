@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="JPubGenerated"/>
+	<classpathentry kind="src" path="SQLJGenerated"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Gagan/Softwares/Programing/SQLJ/lib/oracle/10g/sqlj/lib/runtime12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gagan/Softwares/Programing/SQLJ/lib/oracle/10g/sqlj/lib/translator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gagan/Softwares/Programing/jdbc-drivers/oracle/10.2.0.5/ojdbc14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
